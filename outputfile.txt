@@ -1,0 +1,11 @@
+IP: 192.168.0.1
+5.32.0.10.in-addr.arpa domain name pointer batweb01.oicorp.com.
+
+IP: 192.168.0.2
+2.32.0.10.in-addr.arpa domain name pointer trinity.oicorp.com.
+
+IP: 192.168.0.3
+6.32.0.10.in-addr.arpa domain name pointer titan.oicorp.com.
+
+IP: 192.168.0.4
+3.32.0.10.in-addr.arpa domain name pointer krotos.oicorp.com.
