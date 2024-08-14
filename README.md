@@ -5,3 +5,4 @@ These command sets designed from It enables DNS checks of multiple IP addresses 
 * Linux or Mac OS
 * You must be connected the domain you want to query VPN, office or related network.
 * You record enter the IP list you want to query into IP_Read_List.txt
+* You should be run the command in terminal ```./check.sh > outputfile.txt```
